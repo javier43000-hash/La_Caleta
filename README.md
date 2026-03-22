@@ -1,16 +1,18 @@
-# 💰 La Caleta - Control de Gastos Caseros
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Status](https://img.shields.io/badge/Estado-Uso%20Personal-blue?style=for-the-badge)
 
-Este proyecto es parte de mi bitácora en **"el abc del programador novato"**. Es una herramienta sencilla pero robusta construida en Python para organizar las finanzas del hogar.
+# 💰 La Caleta
 
-## 🧠 ¿Cómo funciona el motor? (Lógica)
-En este código apliqué conceptos fundamentales que he ido dominando:
-- **Gestión de Datos:** Uso de listas y diccionarios para organizar cada gasto.
-- **Validación Humana:** El programa está diseñado para no romperse si el usuario ingresa datos incorrectos.
-- **Persistencia:** Los datos se mantienen guardados para que la administración sea real y útil.
+### 📝 Descripción
+Aplicación personal para el control de ingresos y gastos. Diseñada para llevar una contabilidad clara y privada sin depender de servicios en la nube.
 
-## 🛠️ Tecnologías
-- **Lenguaje:** Python 3.x
-- **Enfoque:** Lógica de consola y manejo de flujos.
+### 🚀 Características
+* **Registro rápido:** Entrada de datos simplificada.
+* **Privacidad total:** Los datos se quedan en tu equipo.
+* **Interfaz Práctica:** Hecha para trabajar, no para adornar.
+
+### 🛠️ Tecnologías
+* **Lenguaje:** Python
+* **Enfoque:** Gestión financiera personal.
 
 ---
-*Hecho con paciencia y código por un programador en constante aprendizaje.*
+> **Nota:** Herramienta interna para orden personal.
